@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/andresvargas/Desktop/**)",
+      "Read(//c/Users/andresvargas/Documents/**)",
+      "Read(//c/Users/andresvargas/Downloads/**)",
+      "Bash(python generar_guia.py)"
+    ]
+  }
+}
